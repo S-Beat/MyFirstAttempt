@@ -1,4 +1,4 @@
-# Azure Functions With Docker
+# Azure Function With Docker
 This is an Azure Functions project with a Docker container.
 With the HttpTrigger you can have a function executed via an HTTP.
 Be sure you checkout which security rules you apply.
